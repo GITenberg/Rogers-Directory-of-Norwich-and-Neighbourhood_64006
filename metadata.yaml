@@ -1,0 +1,20 @@
+_repo: Rogers-Directory-of-Norwich-and-Neighbourhood_64006
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rogers, Edward Dawson
+    gutenberg_agent_id: '52711'
+    url: http://www.gutenberg.org/2009/agents/52711
+description: ''
+gutenberg_issued: '2020-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64006'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Rogers' Directory of Norwich and Neighbourhood
+url: http://www.gutenberg.org/ebooks/64006
